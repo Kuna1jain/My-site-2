@@ -1,0 +1,81 @@
+body{
+    /* background-color: rgb(63, 71, 81); */
+    text-align: center;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+.container{
+padding-top: 100px;
+position: relative;
+}
+h2,h3{
+    color: #11999E;
+}
+h1{
+    font-size: 5rem;
+    color: #66BFBF;
+    margin-top: 0px;
+    /* width: 100px;*/
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+}
+
+p{
+    color: #11999E;
+}
+.bg{
+    width: 100%;
+}
+
+.cloud{
+    width: 8%;
+    /* position: absolute; */
+}
+.upper{
+    position: absolute;
+    right: 23%;
+    top: 10%;
+}
+.lower{
+    position: absolute;
+    left: 23%;
+    
+}
+.profile{
+    margin: 70px auto;
+    line-height: 2;
+}
+.intro{
+    width: 40%;
+    margin: auto;
+}
+.wd-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+.ps-img{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 45%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+hr{
+    color: rgb(188, 188, 188);
+    border-width: 8px ;
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+}
+.contact-me{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+
+}
