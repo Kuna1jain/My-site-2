@@ -79,3 +79,23 @@ hr{
     line-height: 2;
 
 }
+
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.btn{
+    background: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
